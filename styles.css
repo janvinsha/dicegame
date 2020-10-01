@@ -1,0 +1,53 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  background-color: white;
+  border: 1px solid blue;
+  border-radius: 20px;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: teal;
+}
+
+h1 {
+  margin: 10px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: teal;
+}
+
+p {
+  font-size: 2rem;
+  color: teal;
+  font-family: "Indie Flower", cursive;
+}
+
+img {
+  width: 40%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+
+button {
+  background-color: teal;
+  color: white;
+  font-size: 2rem;
+  font-family: "Indie Flower", cursive;
+  padding: 1rem;
+  margin: 1rem;
+  box-shadow: 1px 1px 1px blue;
+  outline-color: blue;
+}
