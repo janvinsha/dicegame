@@ -12,6 +12,6 @@ function myFunction() {
   } else if (randomNumber2 > randomNumber1) {
     document.querySelector("h1").innerHTML = "Yo, Player 2 won";
   } else if (randomNumber2 === randomNumber1) {
-    document.querySelector("h1").innerHTML = "Try again bitches";
+    document.querySelector("h1").innerHTML = "Try again!!";
   }
 }
